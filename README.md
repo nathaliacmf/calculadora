@@ -19,8 +19,6 @@ Este repositório contém uma calculadora simples desenvolvida utilizando HTML, 
 - `script.js`: Lógica da calculadora.
 - `assets/calculadora.png`: Imagem da interface da calculadora.
 
-## 🖼 Prévia
-
 
 ## 🛠 Como Usar
 1. Clone este repositório:
